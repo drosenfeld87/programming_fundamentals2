@@ -111,3 +111,6 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 
 # countries = [{'Canada'=>'North_America'=>'false'}, {'Brazil'=>'South_America'=>'false'}, {'France'=>'Europe'=>'false'}]
 # puts countries
+
+#exercise 7
+20.times{puts "I will not skateboard in the halls"}
