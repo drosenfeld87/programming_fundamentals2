@@ -51,7 +51,7 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 # ages.reverse!
 # puts ages.sort.reverse!
 
-#exercise 5
+#exercise 4
 # ages = [30, 40, 28]
 
 # ages_less_than_30 = ages.select do |age|
@@ -73,3 +73,28 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 
 # cities[:london] = 2000000
 # puts cities[:london]
+
+# exercise 5
+
+# cities = { :toronto => 2000000, :newyork => 8000000, :london => 9000000 }
+
+# total = 0
+# cities.each do |k,v|
+#   total = v+total
+# end
+# puts total
+
+# my_people = { :devin => 30, :dalia => 40, :megan => 28}
+# old = 40
+# my_people.each do |k,v|
+#   if v >= 40
+#     puts "#{k} is old"
+#   elsif v < 40
+#     puts "#{k} is young"
+#   end
+# end
+
+# puts fav_colors.last(2)
+
+# fav_colors += ['purple', 'grey']
+#   puts fav_colors
