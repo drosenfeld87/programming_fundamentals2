@@ -38,3 +38,17 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 # artists.insert(2, 'I think Lady GaGa is great')
 # artists.insert(4, 'I think Lady GaGa is great')
 # puts artists
+
+#exercise 3
+
+# puts artists [0..1]
+ # movies[:fearandloathing] = 'came out in 1998'
+ # movies[:princessbride] = 'came out in 1987'
+ # movies[:lordoftherings] = 'came out in 2000'
+ # puts movies
+
+# ages = ages.sort
+# ages.reverse!
+# puts ages.sort.reverse!
+
+#exercise 5
