@@ -52,3 +52,24 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 # puts ages.sort.reverse!
 
 #exercise 5
+# ages = [30, 40, 28]
+
+# ages_less_than_30 = ages.select do |age|
+#   age <= 30
+# end
+# puts ages_less_than_30
+
+# oldest_age = ages.select do |age|
+#     age == ages.max
+#   end
+# puts oldest_age
+
+# coin_flip.uniq. each do |heads|
+#   puts "#{heads}\t#{coin_flip.count(heads)}"
+# end
+
+# artists.delete_at(1)
+# puts artists.inspect
+
+# cities[:london] = 2000000
+# puts cities[:london]
