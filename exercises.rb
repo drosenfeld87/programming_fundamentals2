@@ -20,5 +20,21 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 
 # ages.push(0)
 # puts ages
+#
+# puts movies[:princessbride]
 
-puts movies[:princessbride]
+#exercise 2
+# puts fav_colors.last
+
+# cities[:paris] = 8000000
+# puts cities
+
+# coin_flip.reverse
+# puts coin_flip.reverse
+
+# puts cities[:london]
+
+# artists.insert(0, 'I think Pearl Jam is great')
+# artists.insert(2, 'I think Lady GaGa is great')
+# artists.insert(4, 'I think Lady GaGa is great')
+# puts artists
