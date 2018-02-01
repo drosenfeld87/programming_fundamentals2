@@ -98,3 +98,16 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 
 # fav_colors += ['purple', 'grey']
 #   puts fav_colors
+
+# exercise 6
+  # movies_by_year = {1999 => ['The Matrix', 'Star Wars: Episode 1', 'The Mummy'], 2009 => ['Avatar','Star Trek', 'District 9'], 2019 => ['How to Train your dragon3', 'Toy Story 4', 'Star Wars: Episode 9']}
+
+# phone_button_rows = [
+#     [123],
+#     [456],
+#     [789]
+#   ]
+# puts phone_button_rows
+
+# countries = [{'Canada'=>'North_America'=>'false'}, {'Brazil'=>'South_America'=>'false'}, {'France'=>'Europe'=>'false'}]
+# puts countries
