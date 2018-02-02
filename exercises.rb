@@ -145,6 +145,7 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 # puts sum
 
 #exercise 9
-grocery_list = ["carrots", "toilet paper", "apples", "salmon"]
-  grocery_list.join("\n")
-puts grocery_list.push('rice')
+# grocery_list = ["carrots", "toilet paper", "apples", "salmon"]
+#   grocery_list.join("\n")
+#   puts grocery_list.push('rice')
+# end
