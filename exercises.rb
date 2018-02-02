@@ -113,4 +113,26 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 # puts countries
 
 #exercise 7
-20.times{puts "I will not skateboard in the halls"}
+# 20.times{puts "I will not skateboard in the halls"}
+
+# numbers1to50 = *(1..50)
+# puts numbers1to50
+
+# sum = 0
+# (1..50).each do |total|
+#   sum += total
+# end
+# puts sum
+
+# triple_numbers = (1..50)
+#   (1..50).for do ||
+#     <<
+# end
+# triple_num = []
+# for i in 1..50
+# triple_num << i
+# triple_num << i
+# triple_num << i
+# end
+#
+# puts triple_num
