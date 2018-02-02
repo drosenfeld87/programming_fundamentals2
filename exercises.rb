@@ -137,8 +137,14 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 #
 # puts triple_num
 
-sum = 0
-[250, 7.95, 30.95, 16,50]. each do |total|
-  sum += total
-end
-puts sum
+#exercise 8
+# sum = 0
+# [250, 7.95, 30.95, 16,50]. each do |total|
+#   sum += total
+# end
+# puts sum
+
+#exercise 9
+grocery_list = ["carrots", "toilet paper", "apples", "salmon"]
+  grocery_list.join("\n")
+puts grocery_list.push('rice')
