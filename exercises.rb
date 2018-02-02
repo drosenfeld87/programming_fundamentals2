@@ -136,3 +136,9 @@ my_people = { :devin => 30, :dalia => 40, :megan => 28}
 # end
 #
 # puts triple_num
+
+sum = 0
+[250, 7.95, 30.95, 16,50]. each do |total|
+  sum += total
+end
+puts sum
