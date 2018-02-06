@@ -36,7 +36,17 @@ project = {
 # project = [:person] << (0..8)
     # puts project[:steps]
 
+  #
   project[:steps].each do |step|
-    
-    puts step
+    step[:person] = project[:committee].first
+    project[:committee].rotate!
   end
+
+  puts project
+
+#   def assign_steps(project)
+#   project[:steps].each do |step|
+#     step[:person] = project[:committee].first
+#     project[:committee].rotate!
+#   end
+# end
